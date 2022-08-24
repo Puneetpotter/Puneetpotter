@@ -1,16 +1,30 @@
-👋 Hi, I’m Puneet Rai (@Puneetpotter), and currently I am pursuing bachelors in Computer Science with Big Data Analytics.
+  [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jG5D4n8v6C8-MHncq-cDKG_RhwHp-9jpJw&usqp=CAU)
+<h1 align="center">Hi 👋, I'm Puneet Kumar Rai</h1>
+<h3 align="center">A passionate Data Analyst (Learner) and Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-👀 I’m interested in programming languages such as C, C++, HTML and Python for now.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetpotter&label=Profile%20views&color=0e75b6&style=flat" alt="puneetpotter" /> </p>
 
-🌱 I’m currently learning Data Structures more deeply with C++ as well as Python and I am also parrellely doing Machine Learning.
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-💞️ I’m looking to collaborate on problem solving situations for now.
+- 💬 Ask me about **C, C++ and DSA**
 
-[![alt text][6.1]][6]
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[6]: http://www.github.com/Puneetpotter
+- ⚡ Fun fact **I am a Potterhead!**
 
-<!---
-Puneetpotter/Puneetpotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/puneet-rai-747ab5216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneet-rai-747ab5216" height="30" width="40" /></a>
+<a href="https://instagram.com/puneet.kumar.rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puneet.kumar.rai" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pr3053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pr3053" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pr3053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pr3053" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/puneetpotter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="puneetpotter" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneetpotter&show_icons=true&locale=en&layout=compact" alt="puneetpotter" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneetpotter&show_icons=true&locale=en" alt="puneetpotter" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetpotter&" alt="puneetpotter" /></p>
