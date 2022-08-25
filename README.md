@@ -1,4 +1,4 @@
-  [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jG5D4n8v6C8-MHncq-cDKG_RhwHp-9jpJw&usqp=CAU)
+  ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jG5D4n8v6C8-MHncq-cDKG_RhwHp-9jpJw&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Puneet Kumar Rai</h1>
 <h3 align="center">A passionate Data Analyst (Learner) and Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
