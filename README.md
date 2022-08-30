@@ -1,4 +1,4 @@
-  ![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jG5D4n8v6C8-MHncq-cDKG_RhwHp-9jpJw&usqp=CAU)
+
 <h1 align="center">Hi 👋, I'm Puneet Kumar Rai</h1>
 <h3 align="center">A passionate Data Analyst (Learner) and Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -17,6 +17,7 @@
 <a href="https://instagram.com/puneet.kumar.rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puneet.kumar.rai" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pr3053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pr3053" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pr3053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pr3053" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/puneetpotter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="puneetpotter" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/puneetpotter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="puneetpotter" height="30" width="40" /></a>
 </p>
 
