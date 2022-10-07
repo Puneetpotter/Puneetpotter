@@ -1,7 +1,7 @@
 ![logo](https://github.com/Puneetpotter/Puneetpotter/blob/main/Puneet_github.png)
 <h1 align="center">Hi 👋, I'm Puneet Kumar Rai</h1>
 <h3 align="center">A passionate Data Analyst (Learner) and Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47v39aaou60acsq7157dihquw6rurm7xvdddjh56s4&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetpotter&label=Profile%20views&color=0e75b6&style=flat" alt="puneetpotter" /> </p>
 
