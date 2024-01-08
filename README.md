@@ -14,15 +14,6 @@
 - ⚡ Fun fact **I am a Potterhead!**
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Puneetpotter/Puneetpotter/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Puneetpotter/Puneetpotter/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Puneetpotter/Puneetpotter/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/puneet-rai-747ab5216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneet-rai-747ab5216" height="30" width="40" /></a>
@@ -47,6 +38,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneetpotter&show_icons=true&locale=en&theme=monokai" alt="puneetpotter" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetpotter&theme=monokai" alt="puneetpotter" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Puneetpotter/Puneetpotter/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Puneetpotter/Puneetpotter/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Puneetpotter/Puneetpotter/output/github-contribution-grid-snake.svg">
+</picture>
 
 <samp>
  <img height="120" alt="Have a good day!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
