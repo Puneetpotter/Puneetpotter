@@ -16,8 +16,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![Snake animation](https://github.com/Puneetpotter/Puneetpotter/blob/output/github-contribution-grid-snake.svg)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
